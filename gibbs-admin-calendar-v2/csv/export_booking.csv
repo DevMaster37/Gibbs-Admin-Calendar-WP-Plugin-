@@ -1,0 +1,3 @@
+"Start date","End date",Comment,Client,Listing,Team,status,"Recurrence rule"
+"2021-08-01 00:00:00","2021-08-01 03:00:00",,Anudj,"Åsen selskapslokaler - sentral beliggenhet (demo)",,sesongbooking,FREQ=WEEKLY;UNTIL=20220616T235959;BYDAY=TH;WKST=MO
+"2021-08-01 00:30:00","2021-08-01 04:30:00",,AdminAndOwner,"Åsen selskapslokaler - sentral beliggenhet (demo)",,sesongbooking,FREQ=WEEKLY;UNTIL=20220616T235959;BYDAY=MO;WKST=MO
